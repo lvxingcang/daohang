@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: linecons-star
   links: 
-    - title: Dribbble
-      logo: assets/images/logos/dribbble.png
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
+    - title: 莫高窟
+      logo: assets/images/logos/mogaoku.png
+      url: https://www.mgk.org.cn/
+      description: 世界文化遗产
     - title: Behance
       logo: assets/images/logos/behance.png
       url: https://behance.net/
